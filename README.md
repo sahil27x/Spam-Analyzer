@@ -6,3 +6,6 @@ An intelligent spam filtering system
 
 - Link- https://spamcheckerv1.herokuapp.com
 
+![alt text](https://user-images.githubusercontent.com/26934447/57192158-e9a9e780-6f4a-11e9-88fd-fe93747911a9.gif)
+
+
